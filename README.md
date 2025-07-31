@@ -57,8 +57,6 @@ Trained a classification model to predict academic outcomes based on key indicat
 ### Vehicle Parking Management System
 Designed a backend-integrated PHP application for managing parking space allocation with a MySQL database.
 
-### Movie Recommender and Digit Recognizer
-Built and deployed ML models for movie recommendations and digit recognition, achieving 86.4% accuracy and boosting user engagement by 20%.
 
 ## Website
 Portfolio: [https://goldenfish23.github.io/GoldenFish23-github](https://goldenfish23.github.io/GoldenFish23-github/index.html#home)

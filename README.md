@@ -63,4 +63,4 @@ Portfolio: [https://goldenfish23.github.io/GoldenFish23-github](https://goldenfi
 
 ## Contact
 - Email: [fishgolden0023@gmail.com](fishgolden0023@gmail.com)
-- Linkedin: [www.linkedin.com/in/vijay-vishwakarma-02512a289](www.linkedin.com/in/vijay-vishwakarma-02512a289)
+- Linkedin: [www.linkedin.com/in/vijay-vishwakarma-02512a289](https://www.linkedin.com/in/vijay-vishwakarma-02512a289)

@@ -59,7 +59,7 @@ Designed a backend-integrated PHP application for managing parking space allocat
 
 
 ## Website
-Portfolio: [https://goldenfish23.github.io/GoldenFish23-github](https://goldenfish23.github.io/GoldenFish23-github/index.html#home)
+Portfolio: [Duron | Vijay B. Vishwakarma](https://duron-su2n.onrender.com/leadership)
 
 ## Contact
 - Email: [fishgolden0023@gmail.com](fishgolden0023@gmail.com)
